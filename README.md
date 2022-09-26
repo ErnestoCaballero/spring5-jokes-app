@@ -1,6 +1,6 @@
 # spring5-jokes-app
 
-This project creates a simple web app that show a random Chuck Norris joke from a library imported by using a maven dependency.
+This project creates a simple web app that show a random Chuck Norris jokes from a library imported by using a maven dependency.
 
 ## Dependencies
 1. Thymeleaf
